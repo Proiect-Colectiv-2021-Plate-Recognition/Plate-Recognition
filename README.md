@@ -1,4 +1,4 @@
-# Plate Recognition System
+# Plate Recognition System -- under development...
 The results are visible on here also: https://github.com/Proiect-Colectiv-2021-Plate-Recognition/Plate-Recognition/blob/main/Plate%20recognition.ipynb
 
 Install & Run:
