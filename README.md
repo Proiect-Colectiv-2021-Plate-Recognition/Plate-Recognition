@@ -1,4 +1,7 @@
 # Plate Recognition System -- under development...
+
+Video for testing (video.MOV): https://drive.google.com/open?id=1jd8WVKHYXfisMO390easOdPkZahonRNd
+
 Results for plate recognition on photos: https://github.com/Proiect-Colectiv/Plate-Recognition/blob/main/Photo%20Recognition/Plate%20recognition.ipynb
 
 Install & Run:
