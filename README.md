@@ -1,6 +1,6 @@
 # Plate Recognition System -- under development...
 
-Input for video recognition (videoTrain.avi) : https://drive.google.com/file/d/1N9MPagYbV8OXy-GlVSNxFLfGh5m2aVQK/view?usp=sharing
+Input for video recognition (videoTrain.avi) : https://drive.google.com/file/d/1N9MPagYbV8OXy-GlVSNxFLfGh5m2aVQK/view?usp=sharing <br/>
 ML model needed for location approximation: https://drive.google.com/drive/folders/1UeaTnKh6KxDMQH3nf6203NX2Nzreq3dt?usp=sharing <br/>
 Data set used for training & validation (courtesy of Robert Lucian): https://github.com/RobertLucian/license-plate-dataset
 
