@@ -23,7 +23,7 @@ Results: https://github.com/Proiect-Colectiv/Plate-Recognition/blob/main/Photo%2
 > - Tensorflow Object Dectection API
 
 > Dependencies
-> - Video sources: 
+> - Video resources: 
 >   - Back license plate: https://drive.google.com/file/d/1ZHbzZV6medEsq-lZJmw1QV5MY2KUEjTZ/view?usp=sharing
 >   - Front license plate: https://drive.google.com/file/d/1flcBnnNbapjxiKIplnxvH-SO9NZFiqK0/view?usp=sharing
 > - ML model: https://drive.google.com/drive/folders/1ROKhdlX-Y-8NSvDPYA5UfxXpbG2quiwI?usp=sharing
