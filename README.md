@@ -36,4 +36,12 @@ Results: https://github.com/Proiect-Colectiv/Plate-Recognition/blob/main/Photo%2
 To run this on your machine download the latest release. Do also make sure you have all the dependencies installed & working. 
 If you are building this and need help, let's catch up at milovanarsul at gmail dot com
 
+## Database integration
+This system is able to connect to a database and check if the recognized number plate maches any result in the database.
+> Dependencies
+> - XAMPP & MySQL inside phpMyadmin
+> - Download the database: (coming soon)
+> - Import
+> - Make sure to modify any database connections you might want to change.
 
+If you are building this and need help, let's catch up at milovanarsul at gmail dot com
