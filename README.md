@@ -1,6 +1,6 @@
 # Romanian Plate Recognition System
 ### See it in action: https://bit.ly/3BTuyx5
-Plate recognition system designed to recognize romanian number plates from photos and videos, using a custom in-house trained machine learning model. 
+Plate recognition system designed to recognize romanian number plates from photos and videos, using a custom in-house trained machine learning model, done in collaboration with Nokia's Innovation Labs.
 
 Project featured on WUT's Faculty of Mathematics & Informatics website: https://www.info.uvt.ro/rezultate-studenti/
 
